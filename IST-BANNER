@@ -11,6 +11,8 @@
   
   pkg install git
   
+  git clone https://github.com/Ist6527/IST-BANNER.git
+  
   cd IST-BANNER
   
   bash main.sh
