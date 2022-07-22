@@ -1,0 +1,16 @@
+# IST-BANNER
+
+## Command list
+  pkg update
+  
+  pkg upgrade
+  
+  pkg install ruby
+  
+  pkg install wget
+  
+  pkg install git
+  
+  cd IST-BANNER
+  
+  bash main.sh
